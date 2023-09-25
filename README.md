@@ -31,7 +31,7 @@ StateMachine (или AutoDirector) - класс авторежиссера (са
 
 ### Решение 
 
-Решением является файл [machine_state.py](machine_state.py)
+Решением является файл [main.py](main.py)
 
 ### Запуск
 
@@ -39,7 +39,7 @@ StateMachine (или AutoDirector) - класс авторежиссера (са
 
 ```bash
 pip3 install -r requirements.txt
-python3 machine_state.py
+python3 main.py
 ```
 
 P.S не судите строго это мой первый опыт работы с паттерном "Машина состояний"
