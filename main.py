@@ -1,7 +1,6 @@
 from state import PresentationState, AuditoryState, SpeakerState
 from transition import TimeTransition, PresentationTransition
 from state_machine import StateMachine
-from termcolor import colored
 
 presentation = PresentationState("Презентация")
 auditory = AuditoryState("Аудитория")

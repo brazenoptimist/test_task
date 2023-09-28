@@ -38,6 +38,8 @@ StateMachine (или AutoDirector) - класс авторежиссера (са
 Для запуска необходимо выполнить команду:
 
 ```bash
+git clone https://github.com/brazenoptimist/test_task.git
+cd test_task
 pip3 install -r requirements.txt
 python3 main.py
 ```

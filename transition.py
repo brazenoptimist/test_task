@@ -6,7 +6,7 @@ class Transition:
         self.next_state = next_state
 
     def needTransit(self):
-        pass  # Абстрактный метод, будет реализован в подклассах
+        pass
 
 
 class TimeTransition(Transition):
